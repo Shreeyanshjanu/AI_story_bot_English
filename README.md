@@ -1,7 +1,7 @@
 # StoraAI — AI Storytelling App
 
 <p align="center">
-  <img src="frontend/assets/images/your_icon.jpg" width="120" alt="StoraAI Logo" />
+  <img src="frontend/assets/images/app_icon.jpg" width="120" alt="StoraAI Logo" />
 </p>
 
 <p align="center">

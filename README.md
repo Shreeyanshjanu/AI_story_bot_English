@@ -1,7 +1,7 @@
 # StoraAI — AI Storytelling App
 
 <p align="center">
-  <img src="assets/images/app_icon.jpg" width="120" alt="StoraAI Logo" />
+  <img src="frontend/assets/images/your_icon.jpg" width="120" alt="StoraAI Logo" />
 </p>
 
 <p align="center">
@@ -33,7 +33,7 @@
 
 | Login | Home | Story |
 |-------|------|-------|
-| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![Story](screenshots/story.jpeg) |
+| ![Login](frontend/screenshots/login.jpeg) | ![Home](frontend/screenshots/home.jpeg) | ![Story](frontend/screenshots/story.jpeg) |
 
 ---
 

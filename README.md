@@ -29,14 +29,11 @@
 - **Story Screen** — Clean reading UI with play/pause/replay controls and a shimmer progress bar
 
 ---
-
 ## Screenshots
 
-| Login | Home | Generating | Story |
-|-------|------|------------|-------|
-| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg)  | ![Story](screenshots/story.jpeg) |
-
-> Add your screenshots in a `/screenshots` folder in the root of the project.
+| Login | Home | Story |
+|-------|------|-------|
+| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg) | ![Story](screenshots/story.jpeg) |
 
 ---
 

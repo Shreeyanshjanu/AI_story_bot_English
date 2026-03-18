@@ -1,6 +1,6 @@
 name: frontend
 description: "A new Flutter project."
-publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+publish_to: 'none' 
 
 
 version: 1.0.0+1
@@ -27,8 +27,19 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.13.1
 
   flutter_lints: ^6.0.0
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/app_icon.jpg"        # ← for iOS + old Android
+  min_sdk_android: 21
+  adaptive_icon_background: "#ffffff"               # ← match your image bg color
+  adaptive_icon_foreground: "assets/images/app_icon.jpg"
+  remove_alpha_ios: true
+
 
 flutter:
   assets:

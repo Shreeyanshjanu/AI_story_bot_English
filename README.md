@@ -34,7 +34,7 @@
 
 | Login | Home | Generating | Story |
 |-------|------|------------|-------|
-| ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Generating](screenshots/generating.png) | ![Story](screenshots/story.png) |
+| ![Login](screenshots/login.jpeg) | ![Home](screenshots/home.jpeg)  | ![Story](screenshots/story.jpeg) |
 
 > Add your screenshots in a `/screenshots` folder in the root of the project.
 

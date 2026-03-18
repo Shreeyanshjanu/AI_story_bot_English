@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "866824918074",
+    "project_id": "story-telling-bot-b1a75",
+    "storage_bucket": "story-telling-bot-b1a75.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:866824918074:android:85d82b590f84ccb40ad103",
+        "android_client_info": {
+          "package_name": "com.example.frontend"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMC4ruoAA2erIJ-YDiJlIAyhnxDGOXbBA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
